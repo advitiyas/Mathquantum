@@ -2,9 +2,6 @@
 permalink: /Background/
 title: "Background"
 ---
-**Abstract**
-
-Quantum concepts are a revolutionizing technology in all fields concerned, however they play a heavy role in Aerospace design and sensors aboard the craft. One such technology is the adaptation of quantum computing to solve complex issues and optimize the design of air and spacecraft, as well simulate space-flight designs, and compare and contrast engineering ideas. Quantum computers should also be utilized to combine algorithms with artificial intelligence to better increase the benefits to engineering and technology in the aerospace field.
 
 **Present Technology**
 

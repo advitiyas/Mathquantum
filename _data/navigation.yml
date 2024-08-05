@@ -1,9 +1,9 @@
 main:
   - title: "Background"
     url: /Background/
-  - title: "Questions"
-    url: /Questions/
   - title: "Methods"
     url: /Methods/
   - title: "Goals"
     url: /Goals/
+- title: "Techniques"
+    url: /Techniques/

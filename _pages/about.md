@@ -3,6 +3,10 @@ permalink: /Background/
 title: "Background"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+**Present Technology**
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+Quantum designed aerospace technology is still in its very early phases. Quantum computers have recently developed an optimized version of a radiologic nuclear battery based on high energy gamma rays. Current research indicates that quantum computers have the ability to double the efficiency of photovoltaics by enabling two electrons per photon. The testing of quantum made and optimized materials is also being used in space to identify and measure vacuum energy and dark matter.
+
+**History Of Quantum Computing**
+
+Quantum computing was first proposed in the 1980s but was not harnessed for aerospace technologies until recently. A successful 2 bit quantum computer was built in 1998, which could solve new quantum algorithms such as Grover’s algorithm. Further improvements in semiconductors and microprocessors were also made great progress in the quantum computing industry which significantly reduced costs and sizes of integrated circuits. Recently, A study in 2014 timed a quantum computer solving the travelling salesman problem in significantly less time than a classical computer, even increasing its difficulty.

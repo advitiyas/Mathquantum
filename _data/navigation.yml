@@ -1,9 +1,7 @@
 main:
   - title: "Background"
     url: /Background/
-  - title: "Methods"
-    url: /Methods/
-  - title: "Goals"
-    url: /Goals/
   - title: "Techniques"
     url: /Techniques/
+  - title: "Goals"
+    url: /Goals/

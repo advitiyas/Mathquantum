@@ -18,7 +18,5 @@ Here is a really cool picture of an example of how quantum technologies can opti
 [![Airplane](https://nextbigfuture.s3.amazonaws.com/uploads/2019/02/quantumneural.jpg)](https://nextbigfuture.s3.amazonaws.com/uploads/2019/02/quantumneural.jpg)
 
 Did you know quantum technology can be harnessed to show specific scenarios of spaceships and materials?:
-[![Aerodynamic](https://cdn-images-1.medium.com/max/1100/0*uXvSU2OeoadvUg1a.gif)](https://cdn-images-1.medium.com/max/1100/0*uXvSU2OeoadvUg1a.gif)
 
-To understand how the polar form is derived, watch this video.
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lFT2hwsCMls?si=JOl8VpLVjfM1kp1n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![Aerodynamic](https://cdn-images-1.medium.com/max/1100/0*0MdjpKHBU2SrX0fA.png)](https://cdn-images-1.medium.com/max/1100/0*0MdjpKHBU2SrX0fA.png)

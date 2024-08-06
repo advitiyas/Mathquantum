@@ -11,6 +11,13 @@ Quantum designed aerospace technology is still in its very early phases. Quantum
 
 Quantum computing was first proposed in the 1980s but was not harnessed for aerospace technologies until recently. A successful 2 bit quantum computer was built in 1998, which could solve new quantum algorithms such as Grover’s algorithm. Further improvements in semiconductors and microprocessors were also made great progress in the quantum computing industry which significantly reduced costs and sizes of integrated circuits. Recently, A study in 2014 timed a quantum computer solving the travelling salesman problem in significantly less time than a classical computer, even increasing its difficulty.
 
+**Video**
+
+To understand a little more about the interesting applications of quantum technologies in space and spacecraft design, watch this video.
+
+<iframe width="560" height="315" src="[https://www.youtube.com/embed/lFT2hwsCMls?si=JOl8VpLVjfM1kp1n](https://youtu.be/xoD7WcUkshg?si=Z-Wo9jXdONX0oJV_)" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 
 **References**
 ***The references utilized for this project are as follows***

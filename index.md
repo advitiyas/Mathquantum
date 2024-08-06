@@ -8,10 +8,16 @@ author_profile: false
 
 Complex numbers are numbers with a *real component* and an *imaginary component*, in the form \\(a+bi\\), where a and b are **real numbers** and i is the ***imaginary unit***.
 
-An extended explanation of complex numbers can be found [here](https://en.wikipedia.org/wiki/Complex_number).
+**Abstract**
 
-It can be helpful to visualize complex numbers on the complex plane:
-![complex plane](https://upload.wikimedia.org/wikipedia/commons/5/57/90-Degree_Rotations_in_the_Complex_Plane.png)
+Quantum concepts are a revolutionizing technology in all fields concerned, however they play a heavy role in Aerospace design and sensors aboard the craft. One such technology is the adaptation of quantum computing to solve complex issues and optimize the design of air and spacecraft, as well simulate space-flight designs, and compare and contrast engineering ideas. Quantum computers should also be utilized to combine algorithms with artificial intelligence to better increase the benefits to engineering and technology in the aerospace field.
+
+
+A wonderful resource for quantum optimized aerospace technology can be found [here](https://en.wikipedia.org/wiki/Complex_number).
+
+Here is a really cool picture of an example of how quantum technologies can optimize spacecrafts:
+
+![complex plane]([https://upload.wikimedia.org/wikipedia/commons/5/57/90-Degree_Rotations_in_the_Complex_Plane.png](https://nextbigfuture.s3.amazonaws.com/uploads/2019/02/quantumneural.jpg))
 
 Complex numbers can also be represented in polar form as seen below:
 [![Polar form](https://www.songho.ca/math/euler/files/euler17.png)](https://www.songho.ca/math/euler/files/euler17.png)

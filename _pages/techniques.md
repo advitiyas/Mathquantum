@@ -5,7 +5,7 @@ title: "Techniques"
 
 **Techniques necessary for this field**
 
-The techniques necessary for this field are linear algebra and calculus. Linear algebra is a branch of mathematics that studies linear equations, vector spaces, and linear mappings between them. This is a very useful field for quantum information science because qubits are able to be represented as vectors and can be mapped out. Additionally calculus topics such as optimization and differential equations are necessary to build and develop new parts for rockets and optimize propulsion systems and resource allocation.
+The mathematical techniques necessary for this field are linear algebra and calculus. Linear algebra is a branch of mathematics that studies linear equations, vector spaces, and linear mappings between them. This is a very useful field for quantum information science because qubits are able to be represented as vectors and can be mapped out. Additionally calculus topics such as optimization and differential equations are necessary to build and develop new parts for rockets and optimize propulsion systems and resource allocation.
 
 **Breakthroughs**
 

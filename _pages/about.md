@@ -15,14 +15,19 @@ Quantum computing was first proposed in the 1980s but was not harnessed for aero
 
 To understand a little more about the interesting applications of quantum technologies in space and spacecraft design, watch this video.
 
-<iframe width="560" height="315" src="[https://www.youtube.com/embed/lFT2hwsCMls?si=JOl8VpLVjfM1kp1n](https://youtu.be/xoD7WcUkshg?si=Z-Wo9jXdONX0oJV_)" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="[https://www.youtube.com/lFT2hwsCMls?si=JOl8VpLVjfM1kp1n]" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 
 **References**
+
 ***The references utilized for this project are as follows***
 
+
 Microwave Journal. (2018). Instrument applications in quantum for the aerospace and Defense Industry. Instrument Applications in Quantum for the Aerospace and Defense Industry | 2020-09-09. https://www.microwavejournal.com/articles/print/34558-instrument-applications-in-quantum-for-the-aerospace-and-defense-industry 
+
 Bushnell, D. (2020). Survey of Quantum Technologies in aerospace - NASA technical reports ... NASA. https://ntrs.nasa.gov/api/citations/20220016371/downloads/NASA-TM-20220016371.pdf 
+
 Jia, B. (2014b). Quantum technology for aerospace applications - researchgate. Research Gate. https://www.researchgate.net/profile/Erik-Blasch/publication/269321563_Quantum_Technology_for_Aerospace_Applications/links/5e4b2970458515072da6e737/Quantum-Technology-for-Aerospace-Applications.pdf 
+
 Lalwani, J. (2023, January). Quantum Computing for Mars Exploration: Opportunities and challenges. Research Gate. https://www.researchgate.net/publication/366740185_Quantum_Computing_for_Mars_Exploration_Opportunities_and_Challenges 

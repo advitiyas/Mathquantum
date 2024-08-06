@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Advitiya Srinivasan"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "I am really interested in Quantum!."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
